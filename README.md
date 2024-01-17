@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fernando Beppu 🤙
 
-Engenheiro Civil migrando para área de programação!!!
+De Engenheiro Civil para Desenvolvedor Back-End Jr!
 
 ![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu)](https://github.com/anuraghazra/github-readme-stats)
