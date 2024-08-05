@@ -2,10 +2,7 @@
 
 De Engenheiro Civil para Desenvolvedor Back-End Jr!
 
-### My Stats
 ![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula)
-
-### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills 💻
