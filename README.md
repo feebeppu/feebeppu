@@ -1,6 +1,5 @@
-### Olá! Eu sou o Fernando Beppu 🤙
+### Hello! I'm Fernando Beppu 🤙
 
-Hello! I'm Fernando Beppu 🤙
 From Civil Engineer to Junior Back-End Developer!
 
 🌍 Location: Presidente Prudente, SP
