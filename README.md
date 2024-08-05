@@ -6,12 +6,7 @@ De Engenheiro Civil para Desenvolvedor Back-End Jr!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia 
-<div style="display: inline_block"><br/>
-  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img aling="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img aling="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img aling="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <hr></hr>
 
