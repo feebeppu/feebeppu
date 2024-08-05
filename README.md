@@ -2,20 +2,12 @@
 
 From Civil Engineer to Junior Back-End Developer!
 
-🌍 **Location:** Presidente Prudente, SP  
-📧 **Contact:** f.beppu@hotmail.com  
-💼 **Current Position:** Back-End Developer at Startsoft
+🌍 **Location:** Based in Presidente Prudente, SP  
+📧 **Contact:** Feel free to reach out via email: f.beppu@hotmail.com
+💼 **Current Position:** Back-End Developer Jr at Startsoft
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula" alt="Beppu's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu&layout=compact&theme=dracula" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu&layout=compact&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills 💻
 [![My Skills](https://skillicons.dev/icons?i=nestjs,ts,js,postgres,docker,aws,kubernetes)](https://skillicons.dev)
