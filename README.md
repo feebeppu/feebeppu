@@ -6,7 +6,7 @@ From Civil Engineer to Junior Back-End Developer!
 📧 **Contact:** Feel free to reach out via email: [f.beppu@hotmail.com](mailto:f.beppu@hotmail.com)  
 💼 **Current Position:** Back-End Developer Jr at Startsoft
 
-![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula&hide=prs,issues)
+![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu&layout=compact&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills 💻
