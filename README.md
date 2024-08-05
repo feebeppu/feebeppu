@@ -7,7 +7,7 @@ From Civil Engineer to Junior Back-End Developer!
 💼 **Current Position:** Back-End Developer at Startsoft
 
 ![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills 💻
 [![My Skills](https://skillicons.dev/icons?i=nestjs,ts,js,postgres,docker,aws,kubernetes)](https://skillicons.dev)
