@@ -1,6 +1,11 @@
 ### Olá! Eu sou o Fernando Beppu 🤙
 
-De Engenheiro Civil para Desenvolvedor Back-End Jr!
+Hello! I'm Fernando Beppu 🤙
+From Civil Engineer to Junior Back-End Developer!
+
+🌍 Location: Presidente Prudente, SP
+📧 Contact: f.beppu@hotmail.com
+💼 Current Position: Back-End Developer at Startsoft
 
 ![Beppu's GitHub stats](https://github-readme-stats.vercel.app/api?username=feebeppu&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu)](https://github.com/anuraghazra/github-readme-stats)
