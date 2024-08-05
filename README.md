@@ -6,7 +6,7 @@ De Engenheiro Civil para Desenvolvedor Back-End Jr!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebeppu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,ts,js,postgres,docker,aws,kubernetes)](https://skillicons.dev)
 
 <hr></hr>
 
