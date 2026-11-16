@@ -1,6 +1,6 @@
 ### Hello! I'm Fernando Beppu 🤙
 
-From Civil Engineer to Junior Back-End Developer!
+From Civil Engineer to DevOps Developer!
 
 🌍 **Location:** Based in Presidente Prudente, SP  
 📧 **Contact:** Feel free to reach out via email: [f.beppu@hotmail.com](mailto:f.beppu@hotmail.com)  
